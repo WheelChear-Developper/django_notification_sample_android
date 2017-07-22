@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "366893686811",
+    "firebase_url": "https://djangonotificationsample.firebaseio.com",
+    "project_id": "djangonotificationsample",
+    "storage_bucket": "djangonotificationsample.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:366893686811:android:060308da97e29193",
+        "android_client_info": {
+          "package_name": "jp.mobile_innovation.djangonotificationsample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "366893686811-a5p5s650t5ie9ed8pnrqvilvdg98h94m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjgfc970uQ6q3RXso-NO2XR9T0QwHrIKU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
